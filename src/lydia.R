@@ -10,7 +10,7 @@
 
 hello_lab <- function() {
   # TODO: Replace this with your name
-  name <- "CHANGE_ME"
+  name <- "lydia"
 
   # TODO: Optionally change what this does
   message <- paste("👋 Hello from", name, "!")
