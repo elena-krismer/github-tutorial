@@ -13,7 +13,7 @@ hello_lab <- function() {
   name <- "CHANGE_ME"
 
   # TODO: Optionally change what this does
-  message <- paste("👋 Hello from", name, "!")
+  message <- paste("👋 Hello from", "Noa", "!")
 
   # Extra: Add your own flavor (e.g., a quote, random number, emoji, whatever)
   extra <- "This is the default message. Customize me!"
