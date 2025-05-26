@@ -10,13 +10,13 @@
 
 hello_lab <- function() {
   # TODO: Replace this with your name
-  name <- "CHANGE_ME"
+  name <- "Max"
 
   # TODO: Optionally change what this does
-  message <- paste("👋 Hello from", name, "!")
+  message <- paste("👋 Hola from", name, "!")
 
   # Extra: Add your own flavor (e.g., a quote, random number, emoji, whatever)
-  extra <- "This is the default message. Customize me!"
+  extra <- "This programm says more than Benni, change my mind."
 
   # Print output
   cat(message, "\n")
